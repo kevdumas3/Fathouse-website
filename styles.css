@@ -29,6 +29,11 @@ body {
   padding: 48px 0;
 }
 
+.hero .wrap {
+  margin-left: 0;
+  padding-left: 0;
+}
+
 .hero-inner {
   display: flex;
   flex-direction: column;

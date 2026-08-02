@@ -3,7 +3,7 @@
   --brick-dark: #5a2b21;
   --cream: #f0e6d2;
   --ink: #1f1a17;
-  --sky: #2456c9;
+  --sky: #31639f;
 }
 
 * {
@@ -25,7 +25,7 @@ body {
 
 /* Hero */
 .hero {
-  background: var(--sky);
+  background: linear-gradient(to bottom, var(--sky) 0%, var(--sky) 50%, transparent 50%);
   padding: 0;
 }
 

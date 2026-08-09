@@ -38,9 +38,10 @@ body {
 }
 
 .hero-caption {
+  max-width: 480px;
   margin: 12px 0 0;
-  padding-left: 24px;
-  text-align: left;
+  padding-right: 24px;
+  text-align: right;
   font-size: 1.4rem;
 }
 

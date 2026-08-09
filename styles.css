@@ -23,6 +23,18 @@ body {
   padding: 0 24px;
 }
 
+/* Hero */
+.hero {
+  padding: 24px 0 0;
+}
+
+.hero-photo {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
 /* Story */
 .story {
   padding: 56px 0;

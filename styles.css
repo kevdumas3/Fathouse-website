@@ -37,6 +37,17 @@ body {
   border-radius: 0 8px 8px 0;
 }
 
+.hero-caption {
+  margin: 12px 0 0;
+  padding-left: 24px;
+  text-align: left;
+  font-size: 1.4rem;
+}
+
+.hero-caption strong {
+  font-weight: 800;
+}
+
 /* Story */
 .story {
   padding: 56px 0;
